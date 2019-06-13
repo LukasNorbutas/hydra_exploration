@@ -5,11 +5,8 @@ The parsed datafiles used in this notebook contain:
 <br>
 <br>
 1) Item pages - pages of **12,378 drug items** on the marketplace, each containing: ID, name, description, seller, shipping locations of each item.
-<br>
 2) Buyer profiles - profile pages of **101,965 buyer profiles**, each containing nickname, number of transactions and date of registration.
-<br>
 3) Feedback messages - **574,274 buyer feedback messages** left for each item/seller after a transaction. It contains buyer nickname (author of message), seller nickname (from whom the author bought an item), item ID, date of message, buyer's location
-<br>
 4) (omitted in this notebook) Price of items - Prices for different weights of (most) items. 
 <br>
 
