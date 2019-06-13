@@ -12,5 +12,4 @@ The parsed datafiles used in this notebook contain:
 <br>
 4) (omitted in this notebook) Price of items - Prices for different weights of (most) items. 
 <br>
-![Screenshot](https://github.com/LukasNorbutas/hydra_exploration/blob/master/screenshot.png)
-
+![](screenshot.png)
